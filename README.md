@@ -1,1 +1,2 @@
 # feature-engineering-handling-date-and-time
+I performed feature engineering on date and time data by extracting components such as day, month, year, and more. This approach enhances the dataset by providing additional features that capture temporal patterns and trends, which can improve the performance and interpretability of machine learning models. Integrating these extracted features allows for more nuanced analysis and prediction based on temporal dependencies within the data.
